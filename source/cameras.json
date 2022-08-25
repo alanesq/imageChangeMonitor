@@ -1,0 +1,14 @@
+[
+  {
+      "name": "Door",
+        "url": "http://192.168.1.1/door.jpg",
+    "enabled": 1,
+      "maskx": -1, "masky": 0, "maskw": 0, "maskh": 0
+  },
+  {
+      "name": "Front",
+        "url": "http://192.168.1.2/front.jpg",
+    "enabled": 1,
+      "maskx": -1, "masky": 0, "maskw": 0, "maskh": 0
+  }
+]
